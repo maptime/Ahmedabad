@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Maptime Ahmedabad Third Meetup
-rsvp: http://www.meetup.com/Maptime-AMD/events/223012611/
+rsvp: http://www.meetup.com/Maptime-AMD/events/225964477/
 ---
 
 Let's Map on OpenStreetMap
