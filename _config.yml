@@ -4,6 +4,7 @@ markdown: kramdown
 paginate: 5
 repo: ahmedabad
 github_org: maptime
+future:true
 maptime:
   chapter: MaptimeAMD
   twitter: MaptimeAMD
