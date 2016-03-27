@@ -7,6 +7,8 @@ rsvp: http://www.meetup.com/Maptime-AMD/events/229886132/
 
 The state of Mapillary in India
 
+![Mapillary](https://dl.dropboxusercontent.com/u/56706458/Mapillary%202.png)
+
 The fourth meetup of MaptimeAMD chapter will happen at CEPT University, Ahmedabad on the 9th of April 2016.
 Time: 7.00 PM
 
